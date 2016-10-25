@@ -1,3 +1,3 @@
 USER root
 
-RUN conda install ipywidgets 
+RUN conda install -c conda-forge ipywidgets
